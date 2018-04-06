@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About Use Plain Text
 tags: nav
 navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+This website will encourage writers, designers, and other folks who might not normally be inclined to use plain text.
